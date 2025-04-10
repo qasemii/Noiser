@@ -77,15 +77,23 @@ Command Line Arguments
 
 
 
-
+## Cite if you find this helpful 😃:
+```
+@misc{madani2025noiserboundedinputperturbations,
+      title={Noiser: Bounded Input Perturbations for Attributing Large Language Models}, 
+      author={Mohammad Reza Ghasemi Madani and Aryo Pradipta Gema and Gabriele Sarti and Yu Zhao and Pasquale Minervini and Andrea Passerini},
+      year={2025},
+      eprint={2504.02911},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.02911}, 
+}
+```
 
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Add your license information here]
 
 
